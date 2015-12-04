@@ -1,0 +1,153 @@
+[06-Nov-2012 06:48:49] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[06-Nov-2012 06:48:49] PHP Notice:  Undefined variable: question in /home/httpsylc/public_html/superadmin/faq/form/faq_add_form.php on line 63
+[06-Nov-2012 06:48:49] PHP Notice:  Undefined variable: answer in /home/httpsylc/public_html/superadmin/faq/form/faq_add_form.php on line 69
+[06-Nov-2012 08:15:37] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[06-Nov-2012 08:15:37] PHP Notice:  Undefined variable: question in /home/httpsylc/public_html/superadmin/faq/form/faq_add_form.php on line 63
+[06-Nov-2012 08:15:37] PHP Notice:  Undefined variable: answer in /home/httpsylc/public_html/superadmin/faq/form/faq_add_form.php on line 69
+[06-Nov-2012 08:15:37] PHP Notice:  Undefined index: limit in /home/httpsylc/public_html/superadmin/faq/code/faq_code.php on line 6
+[06-Nov-2012 08:15:37] PHP Notice:  Undefined index: start in /home/httpsylc/public_html/superadmin/faq/code/faq_code.php on line 47
+[06-Nov-2012 08:15:38] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[06-Nov-2012 08:15:38] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[06-Nov-2012 08:15:38] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[06-Nov-2012 08:15:38] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[06-Nov-2012 08:15:38] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[06-Nov-2012 08:15:38] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[06-Nov-2012 08:15:38] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[06-Nov-2012 08:30:53] PHP Notice:  Uninitialized string offset: 0 in /home/httpsylc/public_html/classes/validation.class.php on line 39
+[06-Nov-2012 08:30:53] PHP Notice:  Uninitialized string offset: 0 in /home/httpsylc/public_html/classes/validation.class.php on line 39
+[06-Nov-2012 08:30:53] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[06-Nov-2012 08:39:34] PHP Notice:  Undefined index: limit in /home/httpsylc/public_html/superadmin/faq/code/faq_code.php on line 6
+[06-Nov-2012 08:39:34] PHP Notice:  Undefined index: start in /home/httpsylc/public_html/superadmin/faq/code/faq_code.php on line 47
+[06-Nov-2012 08:39:34] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[06-Nov-2012 08:39:34] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[06-Nov-2012 08:39:34] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[06-Nov-2012 08:39:34] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[06-Nov-2012 08:39:34] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[06-Nov-2012 08:39:34] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[06-Nov-2012 08:39:34] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[06-Nov-2012 08:39:38] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[06-Nov-2012 08:39:38] PHP Notice:  Undefined variable: question in /home/httpsylc/public_html/superadmin/faq/form/faq_add_form.php on line 63
+[06-Nov-2012 08:39:38] PHP Notice:  Undefined variable: answer in /home/httpsylc/public_html/superadmin/faq/form/faq_add_form.php on line 69
+[06-Nov-2012 08:39:47] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[06-Nov-2012 08:39:47] PHP Notice:  Undefined variable: question in /home/httpsylc/public_html/superadmin/faq/form/faq_add_form.php on line 63
+[06-Nov-2012 08:39:47] PHP Notice:  Undefined variable: answer in /home/httpsylc/public_html/superadmin/faq/form/faq_add_form.php on line 69
+[06-Nov-2012 08:40:37] PHP Notice:  Undefined index: LoggedIn in /home/httpsylc/public_html/classes/LoginSystem.class.php on line 18
+[06-Nov-2012 08:40:37] PHP Notice:  Undefined index: UserLoggedIn in /home/httpsylc/public_html/classes/LoginSystem.class.php on line 28
+[06-Nov-2012 08:40:41] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[06-Nov-2012 08:40:41] PHP Notice:  Undefined variable: question in /home/httpsylc/public_html/superadmin/faq/form/faq_add_form.php on line 63
+[06-Nov-2012 08:40:41] PHP Notice:  Undefined variable: answer in /home/httpsylc/public_html/superadmin/faq/form/faq_add_form.php on line 69
+[06-Nov-2012 08:41:34] PHP Notice:  Undefined index: limit in /home/httpsylc/public_html/superadmin/faq/code/faq_code.php on line 6
+[06-Nov-2012 08:41:34] PHP Notice:  Undefined index: start in /home/httpsylc/public_html/superadmin/faq/code/faq_code.php on line 47
+[06-Nov-2012 08:41:34] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[06-Nov-2012 08:41:34] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[06-Nov-2012 08:41:34] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[06-Nov-2012 08:41:34] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[06-Nov-2012 08:41:34] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[06-Nov-2012 08:41:34] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[06-Nov-2012 08:41:34] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[06-Nov-2012 08:41:36] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[06-Nov-2012 08:41:36] PHP Notice:  Undefined variable: question in /home/httpsylc/public_html/superadmin/faq/form/faq_add_form.php on line 63
+[06-Nov-2012 08:41:36] PHP Notice:  Undefined variable: answer in /home/httpsylc/public_html/superadmin/faq/form/faq_add_form.php on line 69
+[06-Nov-2012 08:41:53] PHP Notice:  Undefined index: limit in /home/httpsylc/public_html/superadmin/faq/code/faq_code.php on line 6
+[06-Nov-2012 08:41:53] PHP Notice:  Undefined index: start in /home/httpsylc/public_html/superadmin/faq/code/faq_code.php on line 47
+[06-Nov-2012 08:41:53] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[06-Nov-2012 08:41:53] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[06-Nov-2012 08:41:53] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[06-Nov-2012 08:41:53] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[06-Nov-2012 08:41:53] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[06-Nov-2012 08:41:53] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[06-Nov-2012 08:41:53] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[06-Nov-2012 08:41:53] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[06-Nov-2012 08:41:53] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[06-Nov-2012 08:42:18] PHP Notice:  Undefined variable: editsub in /home/httpsylc/public_html/superadmin/faq/code/faq_edit_code.php on line 11
+[06-Nov-2012 08:42:18] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[06-Nov-2012 08:42:22] PHP Notice:  Undefined index: limit in /home/httpsylc/public_html/superadmin/faq/code/faq_code.php on line 6
+[06-Nov-2012 08:42:22] PHP Notice:  Undefined index: start in /home/httpsylc/public_html/superadmin/faq/code/faq_code.php on line 47
+[06-Nov-2012 08:42:22] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[06-Nov-2012 08:42:22] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[06-Nov-2012 08:42:22] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[06-Nov-2012 08:42:22] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[06-Nov-2012 08:42:22] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[06-Nov-2012 08:42:22] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[06-Nov-2012 08:42:22] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[06-Nov-2012 08:42:22] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[06-Nov-2012 08:42:22] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[06-Nov-2012 08:42:33] PHP Notice:  Undefined variable: contactid in /home/httpsylc/public_html/superadmin/faq/code/faq_delete_code.php on line 19
+[06-Nov-2012 08:42:33] PHP Notice:  Undefined index: limit in /home/httpsylc/public_html/superadmin/faq/code/faq_code.php on line 6
+[06-Nov-2012 08:42:33] PHP Notice:  Undefined index: start in /home/httpsylc/public_html/superadmin/faq/code/faq_code.php on line 47
+[06-Nov-2012 08:42:33] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[06-Nov-2012 08:42:33] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[06-Nov-2012 08:42:33] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[06-Nov-2012 08:42:33] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[06-Nov-2012 08:42:33] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[06-Nov-2012 08:42:33] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[06-Nov-2012 08:42:33] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[06-Nov-2012 09:00:57] PHP Notice:  Undefined index: limit in /home/httpsylc/public_html/superadmin/faq/code/faq_code.php on line 6
+[06-Nov-2012 09:00:57] PHP Notice:  Undefined index: start in /home/httpsylc/public_html/superadmin/faq/code/faq_code.php on line 47
+[06-Nov-2012 09:00:57] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[06-Nov-2012 09:00:57] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[06-Nov-2012 09:00:57] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[06-Nov-2012 09:00:57] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[06-Nov-2012 09:00:57] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[06-Nov-2012 09:00:57] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[06-Nov-2012 09:00:57] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[08-Nov-2012 02:58:47] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[08-Nov-2012 02:58:47] PHP Notice:  Undefined variable: question in /home/httpsylc/public_html/superadmin/faq/form/faq_add_form.php on line 63
+[08-Nov-2012 02:58:47] PHP Notice:  Undefined variable: answer in /home/httpsylc/public_html/superadmin/faq/form/faq_add_form.php on line 69
+[08-Nov-2012 02:58:59] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[08-Nov-2012 02:58:59] PHP Notice:  Undefined variable: question in /home/httpsylc/public_html/superadmin/faq/form/faq_add_form.php on line 63
+[08-Nov-2012 02:58:59] PHP Notice:  Undefined variable: answer in /home/httpsylc/public_html/superadmin/faq/form/faq_add_form.php on line 69
+[08-Nov-2012 03:02:03] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[08-Nov-2012 03:02:03] PHP Notice:  Undefined variable: question in /home/httpsylc/public_html/superadmin/faq/form/faq_add_form.php on line 63
+[08-Nov-2012 03:02:03] PHP Notice:  Undefined variable: answer in /home/httpsylc/public_html/superadmin/faq/form/faq_add_form.php on line 69
+[08-Nov-2012 03:02:11] PHP Notice:  Undefined index: limit in /home/httpsylc/public_html/superadmin/faq/code/faq_code.php on line 6
+[08-Nov-2012 03:02:11] PHP Notice:  Undefined index: start in /home/httpsylc/public_html/superadmin/faq/code/faq_code.php on line 47
+[08-Nov-2012 03:02:11] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[08-Nov-2012 03:02:11] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[08-Nov-2012 03:02:11] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[08-Nov-2012 03:02:11] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[08-Nov-2012 03:02:11] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[08-Nov-2012 03:02:11] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[08-Nov-2012 03:02:11] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[08-Nov-2012 03:02:15] PHP Notice:  Undefined variable: editsub in /home/httpsylc/public_html/superadmin/faq/code/faq_edit_code.php on line 11
+[08-Nov-2012 03:02:15] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[09-Nov-2012 06:54:18] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[09-Nov-2012 06:54:18] PHP Notice:  Undefined variable: question in /home/httpsylc/public_html/superadmin/faq/form/faq_add_form.php on line 63
+[09-Nov-2012 06:54:18] PHP Notice:  Undefined variable: answer in /home/httpsylc/public_html/superadmin/faq/form/faq_add_form.php on line 69
+[09-Nov-2012 06:54:18] PHP Notice:  ob_end_flush() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete and flush buffer. No buffer to delete or flush in /home/httpsylc/public_html/superadmin/includes/views/admin_footer.php on line 129
+[09-Nov-2012 06:54:44] PHP Notice:  Undefined index: limit in /home/httpsylc/public_html/superadmin/faq/code/faq_code.php on line 6
+[09-Nov-2012 06:54:44] PHP Notice:  Undefined index: start in /home/httpsylc/public_html/superadmin/faq/code/faq_code.php on line 47
+[09-Nov-2012 06:54:44] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[09-Nov-2012 06:54:44] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[09-Nov-2012 06:54:44] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[09-Nov-2012 06:54:44] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[09-Nov-2012 06:54:44] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[09-Nov-2012 06:54:44] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[09-Nov-2012 06:54:44] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[09-Nov-2012 06:54:44] PHP Notice:  ob_end_flush() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete and flush buffer. No buffer to delete or flush in /home/httpsylc/public_html/superadmin/includes/views/admin_footer.php on line 129
+[09-Nov-2012 06:54:51] PHP Notice:  Undefined variable: editsub in /home/httpsylc/public_html/superadmin/faq/code/faq_edit_code.php on line 11
+[09-Nov-2012 06:54:51] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[09-Nov-2012 06:54:51] PHP Notice:  ob_end_flush() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete and flush buffer. No buffer to delete or flush in /home/httpsylc/public_html/superadmin/includes/views/admin_footer.php on line 129
+[09-Nov-2012 06:55:19] PHP Notice:  Undefined index: limit in /home/httpsylc/public_html/superadmin/faq/code/faq_code.php on line 6
+[09-Nov-2012 06:55:19] PHP Notice:  Undefined index: start in /home/httpsylc/public_html/superadmin/faq/code/faq_code.php on line 47
+[09-Nov-2012 06:55:19] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[09-Nov-2012 06:55:19] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[09-Nov-2012 06:55:19] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[09-Nov-2012 06:55:19] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[09-Nov-2012 06:55:19] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[09-Nov-2012 06:55:19] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[09-Nov-2012 06:55:19] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[09-Nov-2012 06:55:19] PHP Notice:  ob_end_flush() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete and flush buffer. No buffer to delete or flush in /home/httpsylc/public_html/superadmin/includes/views/admin_footer.php on line 129
+[09-Nov-2012 06:55:26] PHP Notice:  Undefined variable: editsub in /home/httpsylc/public_html/superadmin/faq/code/faq_edit_code.php on line 11
+[09-Nov-2012 06:55:26] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[09-Nov-2012 06:55:26] PHP Notice:  ob_end_flush() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete and flush buffer. No buffer to delete or flush in /home/httpsylc/public_html/superadmin/includes/views/admin_footer.php on line 129
+[09-Nov-2012 06:55:30] PHP Notice:  Undefined index: limit in /home/httpsylc/public_html/superadmin/faq/code/faq_code.php on line 6
+[09-Nov-2012 06:55:30] PHP Notice:  Undefined index: start in /home/httpsylc/public_html/superadmin/faq/code/faq_code.php on line 47
+[09-Nov-2012 06:55:30] PHP Strict Standards:  Only variables should be passed by reference in /home/httpsylc/public_html/superadmin/includes/views/admin_header.php on line 100
+[09-Nov-2012 06:55:30] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[09-Nov-2012 06:55:30] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[09-Nov-2012 06:55:30] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[09-Nov-2012 06:55:30] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[09-Nov-2012 06:55:30] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 151
+[09-Nov-2012 06:55:30] PHP Notice:  Undefined variable: addToPagging in /home/httpsylc/public_html/superadmin/faq/view/view.php on line 152
+[09-Nov-2012 06:55:30] PHP Notice:  ob_end_flush() [<a href='ref.outcontrol'>ref.outcontrol</a>]: failed to delete and flush buffer. No buffer to delete or flush in /home/httpsylc/public_html/superadmin/includes/views/admin_footer.php on line 129
